@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  strapiUploadFiles: 'https://cms.thedigitalacademy.co.za/upload',
+  candidate: 'https://cms.thedigitalacademy.co.za/applications',
 };
 
 /*

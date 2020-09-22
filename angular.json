@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "strapi-upload"
+    }
+  },
+  "defaultProject": "strapi-upload",
+  "cli": {
+    "analytics": "72b9cc59-46e5-4657-a7c7-727ed0134024"
+  }
 }
